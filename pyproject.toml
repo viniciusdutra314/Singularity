@@ -1,0 +1,11 @@
+[project]
+name = "singularity"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=8.29.0",
+    "manim>=0.18.1",
+    "manimpango>=0.6.0",
+]
